@@ -27,7 +27,7 @@ assignment planning problem.
   * Literature review and writing of two research papers.
 
 * Jun - Dec 2023: Research & Development Intern at French Ministry of Ecological and Solidarity Transition, Paris La Défense, France
-  * Optimization model on long-term trajectories towards a low-carbon French economy.
+  * Optimization model on long-term trajectories towards a low-carbon French economy.hhjzjz
 
 Publications
 ======
