@@ -1,7 +1,7 @@
 ---
 title: "A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints"
 collection: publications
-category: published
+category: manuscripts
 permalink: /publication/2024-EBAP-PC-CP
 excerpt: 'A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints.'
 date: 2024-05-29
