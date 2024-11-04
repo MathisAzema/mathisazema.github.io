@@ -7,7 +7,7 @@ venue: "The 21st International Conference on the Integration of Constraint Progr
 and Operations Research"
 date: 2024-05-29
 location: "Uppsala"
-slides: 'files/2024-CPAIOR.pdf'
+slidesurl: 'files/2024-CPAIOR.pdf'
 ---
 
 Electric buses serve as a key leverage in mitigating the transportation sector’s carbon footprint. However, they pose a challenge, requiring transit agencies to adapt to a new operational approach. In particular, the assignment of buses to trips is more complex because it must consider the planning of the recharging activities. Unlike diesel buses, electric buses have less autonomy and take longer to refuel. In this paper, we address the assignment of electric buses
