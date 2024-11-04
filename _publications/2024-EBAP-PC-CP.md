@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/2024-EBAP-PC-CP
 excerpt: 'A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints.'
-date: 2024
+date: 2024-05-29
 venue: 'CPAIOR 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-031-60597-0_2'
