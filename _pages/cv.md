@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-An extended [pdf](files/CV_eng.pdf) version.
+An extended [pdf](https://mathisazema.github.io/cv/files/CV_eng.pdf) version.
 
 Education
 ======
