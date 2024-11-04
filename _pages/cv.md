@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's degree, MPRO, Conservatoire National des Arts et Métiers, 2024
+* Master's degree, Optimization and Data Science, Ecole Nationale Supérieure des Techniques Avancées, 2024
+* Engineer, Ecole Polytechnique, 2020-2024
+* Engineering School preparatory classes, Lycée Aux Lazaristes, 2018-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - now : PhD student at Ecole des Ponts (CERMICS), Paris, France
+  * Distributionally robust optimization for Unit Commitment.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr - Aug 2023: Research Intern at Polytechnique Montréal (GERAD), Montréal, Canada
+  * Developed MILP and constraint programming models to solve an electric bus
+assignment planning problem.
+  * Literature review and writing of two research papers.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun - Dec 2023: Research & Development Intern at French Ministry of Ecological and Solidarity Transition, Paris La Défense, France
+  * Optimization model on long-term trajectories towards a low-carbon French economy.
 
 Publications
 ======
