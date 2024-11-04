@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+An extended [pdf](files/CV_eng.pdf) version.
+
 Education
 ======
 * Master's degree, MPRO, Conservatoire National des Arts et Métiers, 2024
