@@ -9,3 +9,4 @@ location: "Auvergne, France"
 slidesurl: 'http://mathisazema.github.io/files/2025-CERMICS.pdf'
 ---
 Presentation at CERMICS Young Researchers’ Days 2025: Stochastic Programming and Distributionally Robust Optimization for Unit Commitment.
+[slides](../files/2025-CERMICS.pdf)

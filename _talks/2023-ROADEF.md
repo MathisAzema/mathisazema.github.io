@@ -10,3 +10,4 @@ slidesurl: 'http://mathisazema.github.io/files/2023-prix-ROADEF.pdf'
 ---
 
 RO/AD 2023 Master's Thesis Award presentation on my work addressing the electric Vehicle Assignment Problem with Parking Constraints.
+[slides](../files/2023-prix-ROADEF.pdf)

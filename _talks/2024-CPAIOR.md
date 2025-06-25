@@ -10,3 +10,4 @@ slidesurl: 'http://mathisazema.github.io/files/2024-CPAIOR.pdf'
 ---
 
 Presentation at CPAIOR 2024: A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints, in collaboration with Guy Desaulniers, Jorge Mendoza, and Gilles Pesant.
+[slides](../files/2024-CPAIOR.pdf)
