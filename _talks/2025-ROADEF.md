@@ -8,3 +8,4 @@ date: 2025-02-28
 location: "Paris"
 slidesurl: 'http://mathisazema.github.io/files/2025-ROADEF.pdf'
 ---
+Presented at ROADEF 2025: Solving a convex quadratic maximization problem appearing in some distributionally robust problem, in collaboration with Vincent Leclère and Wim van Ackooij.

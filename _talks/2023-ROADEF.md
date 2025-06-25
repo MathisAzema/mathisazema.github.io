@@ -9,4 +9,4 @@ location: "Amiens"
 slidesurl: 'http://mathisazema.github.io/files/2023-prix-ROADEF.pdf'
 ---
 
-Electrifying public transport offers a promising approach to reducing the sector's carbon footprint. However, this shift presents significant challenges, as it requires a comprehensive rethinking of current operational processes. One key complexity is the assignment of buses to trips, which becomes more complicated with the need to plan for battery recharging. Unlike diesel buses, electric buses have shorter ranges and longer recharge times. This master’s thesis introduces a novel consideration in the literature: parking constraints within bus depots. These constraints are especially critical in Nordic regions like Canada, where fully enclosed depots are necessary to protect buses from winter conditions.
+RO/AD 2023 Master's Thesis Award presentation on my work addressing the electric Vehicle Assignment Problem with Parking Constraints.
