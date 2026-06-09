@@ -5,7 +5,7 @@ collection: publications
 category: published
 permalink: /publication/2026-BDSUC
 excerpt: 'Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables.'
-date: 2026-06
+date: 2026-06-01
 # venue: 'CPAIOR'
 slidesurl: 'http://mathisazema.github.io/files/2025-PGMO.pdf'
 paperurl: 'https://optimization-online.org/?p=32477'
