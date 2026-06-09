@@ -1,10 +1,10 @@
 ---
-title: "Test A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints"
+title: "Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables"
 authors: 'M. Azéma, G. Desaulniers, J.E. Mendoza, G.Pesant'
 collection: publications
 category: published
 permalink: /publication/2024-EBAP-PC-CPb
-excerpt: 'Test A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints.'
+excerpt: 'Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables.'
 date: 2024-05-29
 venue: 'CPAIOR'
 slidesurl: 'http://mathisazema.github.io/files/2024-CPAIOR.pdf'

@@ -2,7 +2,7 @@
 title: "Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables"
 authors: 'M. Azéma, V. Leclère, W. van Ackooij'
 collection: publications
-category: preprint
+category: published
 permalink: /publication/2026-BDSUC
 excerpt: 'Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables.'
 # date: 2024-05-29
