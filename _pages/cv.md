@@ -9,42 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Download my detailed [research CV (PDF)](/files/cv_en.pdf).
+I am a PhD candidate in applied mathematics at CERMICS, École Nationale des Ponts et Chaussées, supervised by Vincent Leclère and Wim van Ackooij. My research focuses on decomposition methods for stochastic, robust and distributionally robust optimization, particularly for mixed-integer problems arising in power systems.
 
-Education
-======
-* Master's degree, Operations Research (MPRO), Conservatoire National des Arts et Métiers, 2024
-* Master's degree, Optimization and Data Science, ENSTA Paris, 2024
-* Engineering degree, École Polytechnique, 2020–2024 (ranked 10th out of 425 students)
-* Engineering school preparatory classes, Lycée Aux Lazaristes, 2018–2020
+My PhD runs from April 2024 to September 2027. I work on strengthening Benders and SDDP cuts, developing an infinite-horizon SDDP method, and studying Lagrangian reformulations for robust optimization with mixed-integer recourse.
 
-Work experience
-======
-* Apr 2024–present: PhD candidate at École des Ponts (CERMICS), Champs-sur-Marne, France
-  * Decomposition methods for stochastic, robust and distributionally robust optimization, with applications to power systems.
+<p><a href="/files/cv_en.pdf" class="btn btn--primary">Download CV (PDF)</a></p>
 
-* Apr–Aug 2023: Research intern at Polytechnique Montréal (GERAD), Montréal, Canada
-  * Developed MILP and constraint programming models to solve an electric bus
-assignment planning problem.
-  * Literature review and writing of two research papers.
-
-* Jun–Sep 2022 and Nov–Dec 2022: Research and development intern at the French Ministry of Ecological and Solidarity Transition, Paris La Défense, France
-  * Optimization model on long-term trajectories towards a low-carbon French economy.
-
-Teaching experience
-======
-* Teaching assistant at École des Ponts
-  * Introduction to Optimization, first-year engineering students.
-  * Convex Optimization, second-year engineering students.
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+See also my [publications](/publications/) and [talks and presentations](/talks/).
