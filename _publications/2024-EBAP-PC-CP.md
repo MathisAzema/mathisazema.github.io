@@ -1,8 +1,8 @@
 ---
 title: "A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints"
-authors: 'M. Azéma, G. Desaulniers, J.E. Mendoza, G.Pesant'
+authors: 'M. Azéma, G. Desaulniers, J. E. Mendoza, G. Pesant'
 collection: publications
-category: published
+category: conferences
 permalink: /publication/2024-EBAP-PC-CP
 excerpt: 'A Constraint Programming Model for the Electric Bus Assignment Problem with Parking Constraints.'
 date: 2024-05-29

@@ -45,8 +45,8 @@
         {% if post.authors %}
           <p>Authors: {{ post.authors }}</p>
         {% endif %}
-        {% if post.category == 'published'%}
-          <p>Published  in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% if post.venue %}
+          <p>{% if post.category == 'forthcoming' %}Forthcoming in{% else %}Published in{% endif %} <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
         {% endif %}
         
     {% elsif post.date %}

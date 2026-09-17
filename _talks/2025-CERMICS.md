@@ -2,7 +2,7 @@
 title: "Stochastic Programming and Distributionally Robust Optimization for Unit Commitment"
 collection: talks
 type: "Talk"
-permalink: /talks/2025-ROADEF
+permalink: /talks/2025-CERMICS
 venue: "CERMICS Young Researchers’ Days"
 date: 2025-04-03
 location: "Auvergne, France"
