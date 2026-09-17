@@ -20,6 +20,13 @@ Before that, I graduated from [École polytechnique](https://www.polytechnique.e
 * **Published in 2026** — [Stronger cuts for Benders’ decomposition for stochastic Unit Commitment Problems based on interval variables](/publication/2026-BDSUC), *Mathematical Programming Computation*. [DOI](https://doi.org/10.1007/s12532-026-00334-1)
 * **Accepted for publication** — [A mixed-integer linear programming model for the electric bus assignment problem with parking constraints](/publication/EBAP-MILP), *Public Transport*.
 
+# Teaching
+
+I am a teaching assistant at École des Ponts, where I lead exercise sessions for:
+
+* **Introduction to Optimization** — first-year engineering students
+* **Convex Optimization** — second-year engineering students
+
 # Awards
 
 * ROADEF Master's Thesis Award (2023 edition): second prize, awarded in 2024
